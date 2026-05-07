@@ -18,8 +18,8 @@
   z-index: 1;
 }
 .search_bb_arm {
-  width: 40px;
-  height: 39px;
+  width: 33px;
+  height: 32px;
   background: url(../img/shop_goods/search_bb_arm.svg) no-repeat center;
   background-size: contain;
 
@@ -31,7 +31,7 @@
 }
 #search_input {
   width: 100%;
-  height: 48px;
+  height: 40px;
   border: 1.5px solid #7f4040;
   border-radius: 40px;
   padding-left: 35px;
